@@ -8,12 +8,16 @@ The CLV prediction model aims to estimate the total value a customer will bring 
 <br/>
 
 **Key Features**
+<br/>
 - Data preprocessing and feature engineering
 - Implementation of Gamma-Gamma and Beta-Geometric/NBD models
 - Random Forest Regressor for CLV prediction
 - Feature importance analysis
 - Data visualization for customer segmentation and CLV distribution
-- Technologies Used
+<br/>
+
+**Technologies Used**
+<br/>
 - Python 3.x
 - pandas
 - numpy
@@ -23,6 +27,7 @@ The CLV prediction model aims to estimate the total value a customer will bring 
 <br/>
 
 **Model Components**
+<br/>
 1. Data Preprocessing: Handling missing values and feature engineering
 2. Gamma-Gamma Model: Estimating customer monetary value
 3. Beta-Geometric/NBD Model: Predicting customer purchase behavior
@@ -33,6 +38,7 @@ The CLV prediction model aims to estimate the total value a customer will bring 
 **Results**
 <br/>
 The model successfully predicts Customer Lifetime Value, enabling:
+<br/>
 - Targeted marketing strategies
 - Improved customer retention efforts
 - Efficient allocation of marketing resources
